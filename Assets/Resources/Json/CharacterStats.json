@@ -1,0 +1,24 @@
+{
+    "characterList": [
+        {
+            "characterId": 0,
+            "unlockLevel": 0,
+            "characterName": "Eena"
+        },
+        {
+            "characterId": 1,
+            "unlockLevel": 50,
+            "characterName": "Meena"
+        },
+        {
+            "characterId": 2,
+            "unlockLevel": 200,
+            "characterName": "Deeka"
+        },
+        {
+            "characterId": 3,
+            "unlockLevel": 500,
+            "characterName": "Pirate"
+        }
+    ]
+}
